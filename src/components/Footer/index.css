@@ -1,0 +1,12 @@
+.footer-container {
+  background-color: #cbd5e1;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 5px;
+}
+.footer-text {
+  color: #475569;
+  font-weight: bold;
+  font-size: 34px;
+  text-align: center;
+}

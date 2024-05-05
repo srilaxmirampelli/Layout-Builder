@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto';
+}
+.cc-container {
+  background-color: #475569;
+  padding-left: 8vw;
+  padding-top: 20px;
+  padding-bottom: 23px;
+}
+.layout-heading {
+  color: #f1f5f9;
+  font-size: 26px;
+  font-weight: 600;
+}
+.controller-item {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+.input-checkbox {
+  width: 18px;
+  height: 18px;
+  margin-right: 10px;
+}
+.option {
+  color: #f1f5f9;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 8px;
+}
